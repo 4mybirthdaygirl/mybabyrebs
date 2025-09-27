@@ -1,6 +1,6 @@
 // Messages for envelopes
 const letters = {
-  1: `Happiest Birthday to the person I love the most :3, I hope you enjoy your day today, baby! Thank you so much for coming into my life, my love. Thank you for existing, babyy. I hope this special day of yours brings you happiness and laughter. I just want you to know that I am beyond thankful that I had the chance to be part of your special day—even though I am far from you. 
+  1: `Happiest Birthday to the person I love the most :3. I hope you enjoy your day today, baby! Thank you so much for coming into my life, my love. Thank you for existing, babyy. I hope this special day of yours brings you happiness and laughter. I just want you to know that I am beyond thankful that I had the chance to be part of your special day—even though I am far from you. 
 
 Baby, you don’t have any idea how your presence lightens up my mood. I hope you never change, baby. You’re like a star in the universe that shines despite the darkness. I am so thankful to your parents for not stopping creating a soon-to-be individual until they made you HAHAHAHHAJAIAIAJJAJA kidding, but I am indeed thankful that they made you happen. `,
   2: `I am so glad that, for once in my life, we met. You’re the biggest plot twist of my life since last year—the very first moment we had interaction. From that very first moment I met you, something inside my system glitched. I never thought that simple interaction would make me write this letter, lmaoo. 
